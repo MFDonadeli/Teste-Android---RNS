@@ -14,6 +14,10 @@ Aqui você terá que implementar uma tela de listagem de produtos usando a API d
 
 A estrutura do projeto está pronta, seu trabalho é entender como funciona e aplicar a modificação proposta.
 
+## O que está sendo entregue
+
+Conexão no servidor configurado no teste de Java, no endereço local, este está configurado diretamente no código. O app lê o JSON da REST API e exibe na tela a lista de produtos, quantidade e local.
+
 ### Dicas
 
 Antes que você pergunte "por que tem flutter e android nativo se flutter é pra android também?" já te respondo: as aplicações em android nativo vieram antes do flutter e não convertemos o que havia (~~mas quem sabe isso não acontecerá num futuro...~~).
